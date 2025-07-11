@@ -19,7 +19,7 @@ export default function FAQPage() {
 
                 <FAQItem
                     question="Is it free to use?"
-                    answer="Yes, Linear Clone is completely free to use as it's an open-source project. You can even download the source code and host it yourself."
+                    answer="Yes, Linear Clone is completely free* to use as it's an open-source project. You can even download the source code and host it yourself."
                 />
 
                 <FAQItem
